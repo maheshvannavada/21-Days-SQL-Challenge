@@ -1,5 +1,5 @@
 #Question: Find the 3rd to 7th highest patient satisfaction scores from the patients table, showing patient_id, 
-  name, service, and satisfaction. Display only these 5 records.
+#name, service, and satisfaction. Display only these 5 records.
 
 use hospital;
 
